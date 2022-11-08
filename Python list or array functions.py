@@ -1,3 +1,4 @@
+# Mark john M. Raymundo CoE 2-2 Data Structure and Algorithms
 array1 = [ 11, 23,  31, 5, 29, 13, 19,  7, 2, 3]
 print(array1)
 
